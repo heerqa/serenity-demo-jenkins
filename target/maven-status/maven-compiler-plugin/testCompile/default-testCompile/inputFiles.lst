@@ -1,8 +1,6 @@
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/stepdefinitions/ParameterDefinitions.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/search/SearchForm.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/search/LookForInformation.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/CucumberTestSuite.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/navigation/WikipediaHomePage.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/navigation/NavigateTo.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/search/WikipediaArticle.java
-/Users/aplle/projects/serenity-cucumber-starter/src/test/java/starter/stepdefinitions/SearchStepDefinitions.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/pages/ExtendedPageObject.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/steps/EndUserSteps.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/pages/TestDataSetup.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/pages/LandingPage.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/CucumberTestSuite.java
+/Users/aplle/projects/automation/src/test/java/mackTrucks/stepDefinitions/DefinitionSteps.java
